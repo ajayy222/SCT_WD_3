@@ -16,7 +16,10 @@ This project is part of Task 03 in the SkillCraft Web Development Internship. It
 - CSS3 (Flex/Grid + custom UI design)
 - JavaScript (DOM, Events, Game Logic)
 
-## 📷 Preview
-_Add a screenshot of the game interface here_
 
-## 📁 Files Structure
+## 🔗 Live Demo
+[View Live Game]
+https://visionary-croquembouche-0a409d.netlify.app/
+
+## 🙋 Author
+**Ajay Jangir** – Web Development Intern at SkillCraft
