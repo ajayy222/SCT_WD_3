@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TIC TAC-TOE</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>✨ Tic Tac Toe ✨</h1>
+
+  <div class="player-inputs">
+    <input id="playerX" placeholder="Player 1" />
+    <input id="playerO" placeholder="Player 2" />
+    <button onclick="startGame()">Start Game</button>
+  </div>
+
+  <div class="board" id="board"></div>
+  <div class="message" id="message"></div>
+  <button onclick="resetGame()">Restart Game</button>
+
+  <audio id="win-sound" src="https://cdn.pixabay.com/audio/2022/03/15/audio_2f3fa3cde3.mp3"></audio>
+  <script src="script.js"></script>  
+</body>
+</html>
